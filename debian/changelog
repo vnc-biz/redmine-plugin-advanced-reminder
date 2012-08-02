@@ -1,0 +1,5 @@
+redmine-plugin-advanced-reminder (0.0.7.2-precise0) precise; urgency=low
+
+  * Packaging for Ubuntu precise
+
+ -- Enrico Weigelt, metux IT service <weigelt@metux.de>  Wed, 28 Aug 2012 21:10:13 +0200
