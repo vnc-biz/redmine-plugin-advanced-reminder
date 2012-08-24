@@ -1,0 +1,1 @@
+1 0 * * * root cd /usr/share/redmine && rake redmine:send_reminders_all days=1 project=test tracker=1 RAILS
